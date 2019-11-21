@@ -155,16 +155,16 @@ function App() {
                   Focus Area:
                 </Typography>
                 <Typography className="data_color"  variant="body2" color="white" component="p">
-                  0 0 0 0" N
+                -24.6600 N
                 </Typography>
                 <Typography className="data_color"  variant="body2" color="white" component="p">
-                  30 0 0 0" W
+                25.9031 W
                 </Typography>
                 <Typography className="lcolor" variant="body2" color="white" component="p">
                   Date & Time:
                 </Typography>
                 <Typography className="data_color" variant="body2" color="white" component="p">
-                  12 JUN 2019 
+                21 NOV 2019 
                 </Typography>
               </CardContent>
             </Card>
