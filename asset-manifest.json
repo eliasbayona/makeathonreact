@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/classEEE/static/css/main.391770e2.chunk.css",
-    "main.js": "/classEEE/static/js/main.9baec13b.chunk.js",
-    "main.js.map": "/classEEE/static/js/main.9baec13b.chunk.js.map",
-    "runtime-main.js": "/classEEE/static/js/runtime-main.06102409.js",
-    "runtime-main.js.map": "/classEEE/static/js/runtime-main.06102409.js.map",
-    "static/css/2.d9a8a5a7.chunk.css": "/classEEE/static/css/2.d9a8a5a7.chunk.css",
-    "static/js/2.102f34ae.chunk.js": "/classEEE/static/js/2.102f34ae.chunk.js",
-    "static/js/2.102f34ae.chunk.js.map": "/classEEE/static/js/2.102f34ae.chunk.js.map",
-    "index.html": "/classEEE/index.html",
-    "precache-manifest.ad74bcf66227c98b5f5fcd642c8300a6.js": "/classEEE/precache-manifest.ad74bcf66227c98b5f5fcd642c8300a6.js",
-    "service-worker.js": "/classEEE/service-worker.js",
-    "static/css/2.d9a8a5a7.chunk.css.map": "/classEEE/static/css/2.d9a8a5a7.chunk.css.map",
-    "static/css/main.391770e2.chunk.css.map": "/classEEE/static/css/main.391770e2.chunk.css.map",
-    "static/media/logo.svg": "/classEEE/static/media/logo.25bf045c.svg"
+    "main.css": "/makeathonreact/static/css/main.391770e2.chunk.css",
+    "main.js": "/makeathonreact/static/js/main.c92791fc.chunk.js",
+    "main.js.map": "/makeathonreact/static/js/main.c92791fc.chunk.js.map",
+    "runtime-main.js": "/makeathonreact/static/js/runtime-main.9a9a8cf1.js",
+    "runtime-main.js.map": "/makeathonreact/static/js/runtime-main.9a9a8cf1.js.map",
+    "static/css/2.d9a8a5a7.chunk.css": "/makeathonreact/static/css/2.d9a8a5a7.chunk.css",
+    "static/js/2.6904776b.chunk.js": "/makeathonreact/static/js/2.6904776b.chunk.js",
+    "static/js/2.6904776b.chunk.js.map": "/makeathonreact/static/js/2.6904776b.chunk.js.map",
+    "index.html": "/makeathonreact/index.html",
+    "precache-manifest.217af0d6d2a7bf02f63a11ba70fb4107.js": "/makeathonreact/precache-manifest.217af0d6d2a7bf02f63a11ba70fb4107.js",
+    "service-worker.js": "/makeathonreact/service-worker.js",
+    "static/css/2.d9a8a5a7.chunk.css.map": "/makeathonreact/static/css/2.d9a8a5a7.chunk.css.map",
+    "static/css/main.391770e2.chunk.css.map": "/makeathonreact/static/css/main.391770e2.chunk.css.map",
+    "static/media/logo.svg": "/makeathonreact/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.06102409.js",
+    "static/js/runtime-main.9a9a8cf1.js",
     "static/css/2.d9a8a5a7.chunk.css",
-    "static/js/2.102f34ae.chunk.js",
+    "static/js/2.6904776b.chunk.js",
     "static/css/main.391770e2.chunk.css",
-    "static/js/main.9baec13b.chunk.js"
+    "static/js/main.c92791fc.chunk.js"
   ]
 }
