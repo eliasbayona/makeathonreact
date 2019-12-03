@@ -3,29 +3,18 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import Typography from '@material-ui/core/Typography';
 import Container from '@material-ui/core/Container';
 import { makeStyles } from '@material-ui/core/styles';
-import clsx from 'clsx';
 import Card from '@material-ui/core/Card';
 import CardHeader from '@material-ui/core/CardHeader';
-import CardMedia from '@material-ui/core/CardMedia';
 import CardContent from '@material-ui/core/CardContent';
-import CardActions from '@material-ui/core/CardActions';
-import Avatar from '@material-ui/core/Avatar';
 import IconButton from '@material-ui/core/IconButton';
 import { red } from '@material-ui/core/colors';
-import FavoriteIcon from '@material-ui/icons/Favorite';
-import ShareIcon from '@material-ui/icons/Share';
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import MoreVertIcon from '@material-ui/icons/MoreVert';
 import Fab from '@material-ui/core/Fab';
-import AddIcon from '@material-ui/icons/Add';
 import LayersOutlinedIcon from '@material-ui/icons/LayersOutlined';
 import AirplanemodeActiveOutlinedIcon from '@material-ui/icons/AirplanemodeActiveOutlined';
 import BubbleChartOutlinedIcon from '@material-ui/icons/BubbleChartOutlined';
 import InputBase from '@material-ui/core/InputBase';
 import SearchIcon from '@material-ui/icons/Search';
-import Button from '@material-ui/core/Button';
 import Dialog from '@material-ui/core/Dialog';
-import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
@@ -34,8 +23,6 @@ import Draggable from 'react-draggable';
 import {DropzoneArea} from 'material-ui-dropzone'
 import ReactMapGl from 'react-map-gl'
 import 'mapbox-gl/dist/mapbox-gl.css';
-
-import logo from './logo.svg';
 import './css/css.css';
 
 function PaperComponent(props) {
@@ -94,14 +81,14 @@ function App() {
     setOpen(false);
   };
 
-  const handleExpandClick = () => {
-    setExpanded(!expanded);
-  };
- const handleToggleLocalizedMode = () => {
-    toggleLocalizedMode(true);
-    toggleAnalyticsMode(false)
-    toggleSateliteMode(false)
- };
+//   const handleExpandClick = () => {
+//     setExpanded(!expanded);
+//   };
+//  const handleToggleLocalizedMode = () => {
+//     toggleLocalizedMode(true);
+//     toggleAnalyticsMode(false)
+//     toggleSateliteMode(false)
+//  };
 
  const handleToggleAnalyticsMode = () => {
   toggleLocalizedMode(false);
@@ -109,11 +96,13 @@ function App() {
   toggleSateliteMode(false)
  }
 
- const handleToggleSateliteMode = () => {
-  toggleLocalizedMode(false);
-  toggleAnalyticsMode(false)
-  toggleSateliteMode(true)
- }
+//  const handleToggleSateliteMode = () => {
+//   toggleLocalizedMode(false);
+//   toggleAnalyticsMode(false)
+//   toggleSateliteMode(true)
+//  }
+
+
   return (
     <ReactMapGl {...viewport} 
      mapboxApiAccessToken="pk.eyJ1IjoidWJjaWN0IiwiYSI6ImNrMzhpMWk5MjA5NTQzbnJ0bnpybHo0ZHkifQ.QoKHB9zLuz-vFjMUHIkNig"

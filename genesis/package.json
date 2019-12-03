@@ -2,7 +2,7 @@
   "name": "genesis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eliasbayona.github.io/classEEE/",
+  "homepage": "https://eliasbayona.github.io/makeathonreact/",
   "dependencies": {
     "@material-ui/icons": "^4.5.1",
     "gh-pages": "^2.1.1",
